@@ -5,17 +5,17 @@
 # How to Run This on Your Local Computer System.
 - Firstly Clone The Repository.
 - Create a Virtual Enviornment.
-'''
+```
 pip install virtualenv
 virtualenv venv
-'''
+```
 - Activate The Virtual Enviornment in Linux.
-'''
+```
 source ./venv/bin/activate
-'''
+```
 - Install All the Dependencies.
-'''
+```
 pip install -r requirements.txt
-'''
+```
 - Now You Are Ready for Running This Projet on Your Loacal Machine.
 ## Thank You
