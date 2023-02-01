@@ -4,6 +4,12 @@
 - Most Probaby i Will Work on GUI and Website of This Project Which Will not be Hosted.
 # How to Run This on Your Local Computer System.
 - Firstly Clone The Repository.
+```
+git clone git@github.com:PraddyumnYadav/Classification_MNIST.git
+```
+```
+https://github.com/PraddyumnYadav/Classification_MNIST.git
+```
 - Create a Virtual Enviornment.
 ```
 pip install virtualenv
