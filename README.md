@@ -23,5 +23,5 @@ source ./venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-- Now You Are Ready for Running This Projet on Your Loacal Machine.
+- Now You Are Ready for Running This Projet on Your Local Machine.
 ## Thank You
