@@ -1,2 +1,3 @@
 /venv
 .ipynb_checkpoints/
+mnist_classifier_96.pkl
