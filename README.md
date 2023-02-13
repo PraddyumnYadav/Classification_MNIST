@@ -8,7 +8,7 @@
 git clone git@github.com:PraddyumnYadav/Classification_MNIST.git
 ```
 ```
-https://github.com/PraddyumnYadav/Classification_MNIST.git
+git clone https://github.com/PraddyumnYadav/Classification_MNIST.git
 ```
 - Create a Virtual Enviornment.
 ```
