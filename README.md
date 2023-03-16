@@ -2,7 +2,6 @@
 - This Repository Contains a Machine Learning Model with sklearn Which is driven from "Hands on Machine Learning"
 - In This Repository We Use Scikit-Learn, Jupyter Notebook, Numpy, Pandas and Matplotlib.
 - I Have Also Solved Exercise4 of HandsOnMachineLearning Book Chapter 3 Which You Can Get With Name [Spam_Classifier](https://github.com/PraddyumnYadav/Spam_Classifier) on my Github Account.
-- Most Probaby i Will Work on GUI and Website of This Project Which Will not be Hosted.
 # How to Run This on Your Local Computer System.
 - Firstly Clone The Repository.
 ```
